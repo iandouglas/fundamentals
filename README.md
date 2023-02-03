@@ -5,18 +5,26 @@ A lot of people have been impacted by a difficult hiring market in the tech indu
 Whether you're a new graduate from a college, university, or code school, or even self-taught, the inspiration of this project was to help each individual practice a core set of fundamental web development skills by building a single application.
 
 Table of Contents:
-1. [What this project is about](https://github.com/iandouglas/fundamentals#what-this-project-is-about)
-1. [What this is NOT](https://github.com/iandouglas/fundamentals#what-this-is-not)
-1. [Pull requests welcome](https://github.com/iandouglas/fundamentals#pull-requests-welcome)
-1. [Goals](https://github.com/iandouglas/fundamentals#goals)
-1. [The Fundamentals](https://github.com/iandouglas/fundamentals#the-fundamentals)
-  - [Front-end Development](https://github.com/iandouglas/fundamentals#front-end-development)
-  - [Back-end Development](https://github.com/iandouglas/fundamentals#back-end-development)
-  - [Full-stack Development](https://github.com/iandouglas/fundamentals#full-stack-development)
-1. [Community and Accountability](https://github.com/iandouglas/fundamentals#community-and-accountability)
-  - [Public accountability](https://github.com/iandouglas/fundamentals#public-accountability)
-  - [Group accountability and communication](https://github.com/iandouglas/fundamentals#group-accountability-and-communication)
-1. [Sponsorship & Community Involvement](https://github.com/iandouglas/fundamentals#sponsorship--community-involvement)
+- [Web Development Fundamentals Project](#web-development-fundamentals-project)
+  - [What this project is about:](#what-this-project-is-about)
+  - [What this is NOT:](#what-this-is-not)
+  - [Pull requests welcome](#pull-requests-welcome)
+- [GOALS](#goals)
+- [The Fundamentals](#the-fundamentals)
+  - [Front-end Development](#front-end-development)
+      - [Core Skills:](#core-skills)
+      - [Nice-to-have Skills:](#nice-to-have-skills)
+  - [Back-end Development](#back-end-development)
+      - [Core Skills:](#core-skills-1)
+      - [Nice-to-have Skills:](#nice-to-have-skills-1)
+  - [Full-stack Development](#full-stack-development)
+      - [Core Skills:](#core-skills-2)
+      - [Nice-to-have Skills:](#nice-to-have-skills-2)
+- [Community and Accountability](#community-and-accountability)
+  - [Public accountability](#public-accountability)
+  - [Group accountability and communication](#group-accountability-and-communication)
+- [Sponsorship \& Community Involvement](#sponsorship--community-involvement)
+
 
 ---
 
@@ -158,7 +166,7 @@ To start, we'll be using a new private channel on Turing's slack channel, but ul
 
 ---
 
-## Sponsorship & Community Involvement
+# Sponsorship & Community Involvement
 
 Project was brainstormed and kicked off by [Ian Douglas](https://linkedin.com/in/iandouglas736), a long-time tech industry professional programmer and educator. Ian [live-streams on Twitch](https://tig.fyi/live) about career advancement and interview preparation, and has a lot of [free content online](https://techinterview.guide) and on [YouTube](https://youtube.com/iandouglas). Ian first started working on this project outline idea as part of his job coaching in late 2021.
 
