@@ -4,6 +4,22 @@ A lot of people have been impacted by a difficult hiring market in the tech indu
 
 Whether you're a new graduate from a college, university, or code school, or even self-taught, the inspiration of this project was to help each individual practice a core set of fundamental web development skills by building a single application.
 
+Table of Contents:
+1. [What this project is about](https://github.com/iandouglas/fundamentals#what-this-project-is-about)
+1. [What this is NOT](https://github.com/iandouglas/fundamentals#what-this-is-not)
+1. [Pull requests welcome](https://github.com/iandouglas/fundamentals#pull-requests-welcome)
+1. [Goals](https://github.com/iandouglas/fundamentals#goals)
+1. [The Fundamentals](https://github.com/iandouglas/fundamentals#the-fundamentals)
+  - [Front-end Development](https://github.com/iandouglas/fundamentals#front-end-development)
+  - [Back-end Development](https://github.com/iandouglas/fundamentals#back-end-development)
+  - [Full-stack Development](https://github.com/iandouglas/fundamentals#full-stack-development)
+1. [Community and Accountability](https://github.com/iandouglas/fundamentals#community-and-accountability)
+  - [Public accountability](https://github.com/iandouglas/fundamentals#public-accountability)
+  - [Group accountability and communication](https://github.com/iandouglas/fundamentals#group-accountability-and-communication)
+1. [Sponsorship & Community Involvement](https://github.com/iandouglas/fundamentals#sponsorship--community-involvement)
+
+---
+
 ## What this project is about:
 
 The heart of this project is merely the implementation of a set of core skills that demonstrate your individual ability to build a web application with these fundamentals in mind.
@@ -100,7 +116,7 @@ Full-stack development is a good overlap of front-end and back-end development. 
 
 ---
 
-# COMMUNITY and ACCOUNTABILITY
+# Community and Accountability
 
 I have two goals in mind for community, and must conform to an agreed-upon set of community behavior guidelines for conduct.
 
@@ -127,14 +143,11 @@ The very first post will contain the following:
 - mention the frequency/cadence of how often you'll post about your progress
 - ask for encouragement and to like/reshare your content -- be SHAMELESS about this, people are less likely to do it if you don't ask for it
 
-```
-I am starting to work on a new project which showcases my knowledge of web development fundamentals. I'm following a guide found at https://tig.fyi/project and will be posting notes about my progress every Monday and Thursday until I finish, or until I find a new job, whichever comes first. I would love any encouragement from my network. Please add a like to this post to help others in your network see that I'm looking for a new job.
-```
+> I am starting to work on a new project which showcases my knowledge of web development fundamentals. I'm following a guide found at https://tig.fyi/project and will be posting notes about my progress every Monday and Thursday until I finish, or until I find a new job, whichever comes first. I would love any encouragement from my network. Please add a like to this post to help others in your network see that I'm looking for a new job.
 
 After that, your regular posts can look like this:
-```
-Over the last few days, I implemented ORM functionality into my ongoing project to save/retrieve data from a MySQL database. I had trouble getting MySQL installed, but I found a great guide at http://blahblahblah.com that helped. Next, I'll be adding some user roles to implement authentication and authorization! Please add a comment below about what you think of my progress! If you want to see my commit history, check out my repo at ...
-```
+
+> Over the last few days, I implemented ORM functionality into my ongoing project to save/retrieve data from a MySQL database. I had trouble getting MySQL installed, but I found a great guide at http://blahblahblah.com that helped. Next, I'll be adding some user roles to implement authentication and authorization! Please add a comment below about what you think of my progress! If you want to see my commit history, check out my repo at ...
 
 ## Group accountability and communication
 
@@ -143,8 +156,9 @@ The community needs a place to chat about progress, ask questions about getting 
 To start, we'll be using a new private channel on Turing's slack channel, but ultimately I think we'll need a community Discord server to handle long-term help and chat history, have regular voice/video channels available, and be open to more than just Turing's community.
 
 
+---
 
-### Sponsorship & Community Involvement
+## Sponsorship & Community Involvement
 
 Project was brainstormed and kicked off by [Ian Douglas](https://linkedin.com/in/iandouglas736), a long-time tech industry professional programmer and educator. Ian [live-streams on Twitch](https://tig.fyi/live) about career advancement and interview preparation, and has a lot of [free content online](https://techinterview.guide) and on [YouTube](https://youtube.com/iandouglas). Ian first started working on this project outline idea as part of his job coaching in late 2021.
 
