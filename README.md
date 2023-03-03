@@ -38,6 +38,8 @@ I want this to be a community-driven effort to support one another. Encourage ea
 
 ## What this is NOT:
 
+This is not a group project, nor a group effort. YOU need to know these skills, therefore YOU need to build these in an individual, solo project.
+
 I don't want this to become a gate-keeping list that we see so often, saying "you must know these 50 things or you are not a competent web developer."
 
 I want to avoid to word "should": you "should" know this, you "should" be able to demonstrate this, you "should" be able to talk about this. Every company will have different skills for which they are interviewing. They will need some of these skills found in this project, and not need others. They may need skills not included in this project, but you can always add those things later.
