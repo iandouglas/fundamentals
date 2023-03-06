@@ -80,9 +80,9 @@ A front-end developer deals with user interactions, user interface controls, and
 - form processing (building form, browser-side validation)
 - async data fetching
 - parsing complex data payloads
-- authentication
 
 #### Nice-to-have Skills:
+- authentication (workflow of login, starting the OAuth flow, etc)
 - Web security topics (OWASP Top Ten) which are applicable to front-end, such as protecting against click-jacking or cross-site scripting vulnerabilities.
 - Behavior-driven or Test-driven development
 
