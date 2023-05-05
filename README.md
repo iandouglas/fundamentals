@@ -82,6 +82,7 @@ A front-end developer deals with user interactions, user interface controls, and
 - parsing complex data payloads
 
 #### Nice-to-have Skills:
+- global state management
 - authentication (workflow of login, starting the OAuth flow, etc)
 - Web security topics (OWASP Top Ten) which are applicable to front-end, such as protecting against click-jacking or cross-site scripting vulnerabilities.
 - Behavior-driven or Test-driven development
@@ -121,6 +122,7 @@ Full-stack development is a good overlap of front-end and back-end development. 
 - consume 3rd party REST API
 
 #### Nice-to-have Skills:
+- global state management (front-end)
 - web security topics (OWASP Top Ten)
 - both Behavior-driven and Test-driven development
 
